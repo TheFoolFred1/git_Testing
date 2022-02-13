@@ -1,6 +1,6 @@
 #print
 print ('hello world')
-print ('hi bud')
+print ('hi')
 #.format
 #.format with indices
 #.format with padding
