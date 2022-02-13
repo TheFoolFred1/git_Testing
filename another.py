@@ -1,7 +1,7 @@
 #print
 print ('hello world')
 print ('hi')
-print ('fred')
+print ('test this')
 #.format
 #.format with indices
 #.format with padding
